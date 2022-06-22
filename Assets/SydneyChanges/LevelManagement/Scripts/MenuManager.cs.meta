@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6a1bf8e14b3c4594eba4bd24b7d14a42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuPrefab: {instanceID: 0}
+  - settingsMenuPrefab: {instanceID: 0}
+  - creditsMenuPrefab: {instanceID: 0}
+  - gameMenuPrefab: {instanceID: 0}
+  - pauseMenuPrefab: {instanceID: 0}
+  - winScreenPrefab: {instanceID: 0}
+  - levelSelectMenuPrefab: {instanceID: 0}
+  - _menuParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

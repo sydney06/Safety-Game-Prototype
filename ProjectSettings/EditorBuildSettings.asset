@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SydneyChanges/LevelManagement/Scenes/SplashScreen.unity
+    guid: f3af9d4cfdf046e44847c5f7bf6c0775
+  - enabled: 1
+    path: Assets/SydneyChanges/LevelManagement/Scenes/MainMenu.unity
+    guid: b5228fc39bee3ef49b9e5d47a62c7ea9
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 3d785dedb13cdb34ab58f099540596c8
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 2abfd89b14ba6994d849ee9492e0b462
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 3f589c34cc4a620459a26c646dd6dfd8
   m_configObjects: {}
